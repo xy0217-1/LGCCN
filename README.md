@@ -1,9 +1,9 @@
-# AAAI2022_ContrastNet
-code and data for AAAI2022 paper "ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification"
+# LGCCN
+code and data for LGCCN
 
 ## How to run:
 
-1. first download the processed data (including all 8 datasets used in the paper) from this [Baidu Cloud link](https://pan.baidu.com/s/1KLrBw7c6xMd3KcTa-jNo0g). Access Code: b10m 
+1. first download the processed data (including all 7 datasets used in the paper) from this [Baidu Cloud link](链接: https://pan.baidu.com/s/1clyEJhn4E8frvwZ_xGTY9g?pwd=zxff). Access Code: zxff 
 2. unzip the data.
 3. run the scripts.
 
